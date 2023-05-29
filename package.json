@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dthanh686/nodejs_beginner.git"
+  },
+  "keywords": [
+    "nodejs",
+    "beginner"
+  ],
+  "author": "thanhtd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dthanh686/nodejs_beginner/issues"
+  },
+  "homepage": "https://github.com/dthanh686/nodejs_beginner#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
